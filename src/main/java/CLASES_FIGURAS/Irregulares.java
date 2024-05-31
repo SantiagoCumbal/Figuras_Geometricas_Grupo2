@@ -16,4 +16,15 @@ public class Irregulares extends DOS_D{
     public String getTipo_angulos() {
         return tipo_angulos;
     }
+    @Override
+    public double calcularArea() {
+        System.out.println("Area del "+getNombre());
+        return super.calcularArea();
+    }
+
+    @Override
+    public double calcularPerimetro() {
+        System.out.println("Perimetro del "+getNombre());
+        return super.calcularPerimetro();
+    }
 }

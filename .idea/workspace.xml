@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb1cfd4e-658d-44a0-bbe6-d37b4c56c873" name="Changes" comment="Segmento_circular y Zona_circular">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Circulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Triangulo.java" afterDir="false" />
+    <list default="true" id="fb1cfd4e-658d-44a0-bbe6-d37b4c56c873" name="Changes" comment="243">
+      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Segmento_circular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Segmento_circular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Zona_circular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Zona_circular.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,21 +41,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/POO/Documents/Figuras_Geometricas_Grupo2/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/POO/Documents/Figuras_Geometricas_Grupo2/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -123,15 +121,7 @@
       <option name="project" value="LOCAL" />
       <updated>1717176382976</updated>
     </task>
-    <task id="LOCAL-00007" summary="Segmento_circular y Zona_circular">
-      <option name="closed" value="true" />
-      <created>1717176624239</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1717176624239</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +144,6 @@
     <MESSAGE value="ajuste" />
     <MESSAGE value="123" />
     <MESSAGE value="243" />
-    <MESSAGE value="Segmento_circular y Zona_circular" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segmento_circular y Zona_circular" />
+    <option name="LAST_COMMIT_MESSAGE" value="243" />
   </component>
 </project>
