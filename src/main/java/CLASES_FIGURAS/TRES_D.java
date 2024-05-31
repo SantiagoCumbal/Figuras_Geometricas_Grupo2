@@ -1,10 +1,11 @@
 package CLASES_FIGURAS;
 
-public class TRES_D {
+public class TRES_D extends Figuras_Geometricas {
     int ncaras;
     double aristas;
     public TRES_D() {}
-    public TRES_D(int ncaras, double aristas) {
+    public TRES_D(int nlados, String nombre, int ncaras, double aristas) {
+        super(nlados, nombre);
         this.ncaras = ncaras;
         this.aristas = aristas;
     }
