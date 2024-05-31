@@ -10,6 +10,15 @@ public class TRES_D extends Figuras_Geometricas {
         this.aristas = aristas;
     }
 
+    @Override
+    public String getNombre() {
+        return super.getNombre();
+    }
+    @Override
+    public void setNombre(String nombre) {
+        super.setNombre(nombre);
+    }
+
     public int getNcaras() {
         return ncaras;
     }
@@ -25,4 +34,11 @@ public class TRES_D extends Figuras_Geometricas {
     public void setAristas(double aristas) {
         this.aristas = aristas;
     }
+    //metodo
+    @Override
+    public void mostrar_datos(){
+        System.out.println("el nombre es:" + getNombre());
+    }
+
+
 }
