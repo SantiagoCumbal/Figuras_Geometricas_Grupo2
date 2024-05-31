@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb1cfd4e-658d-44a0-bbe6-d37b4c56c873" name="Changes" comment="ajuste">
-      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/TRES_D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/TRES_D.java" afterDir="false" />
-    </list>
+    <list default="true" id="fb1cfd4e-658d-44a0-bbe6-d37b4c56c873" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,50 +61,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717174315142</updated>
-      <workItem from="1717174316196" duration="741000" />
+      <workItem from="1717174316196" duration="403000" />
     </task>
-    <task id="LOCAL-00001" summary="carpeta">
-      <option name="closed" value="true" />
-      <created>1717174728278</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1717174728278</updated>
-    </task>
-    <task id="LOCAL-00002" summary="carpeta">
-      <option name="closed" value="true" />
-      <created>1717174772612</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1717174772612</updated>
-    </task>
-    <task id="LOCAL-00003" summary="clases">
-      <option name="closed" value="true" />
-      <created>1717174872396</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1717174872396</updated>
-    </task>
-    <task id="LOCAL-00004" summary="ajuste">
-      <option name="closed" value="true" />
-      <created>1717174968224</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1717174968224</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="carpeta" />
-    <MESSAGE value="clases" />
-    <MESSAGE value="ajuste" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajuste" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
