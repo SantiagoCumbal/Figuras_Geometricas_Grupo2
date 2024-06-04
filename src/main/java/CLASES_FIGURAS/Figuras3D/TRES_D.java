@@ -1,13 +1,11 @@
-package CLASES_FIGURAS;
-
+package CLASES_FIGURAS.Figuras3D;
+import CLASES_FIGURAS.Figuras_Geometricas;
 public class TRES_D extends Figuras_Geometricas {
     int ncaras;
-    double aristas;
     public TRES_D() {}
-    public TRES_D(int nlados, String nombre, int ncaras, double aristas) {
-        super(nlados, nombre);
+    public TRES_D(int nlados, String nombre, int ncaras) {
+        super(nlados,nombre);
         this.ncaras = ncaras;
-        this.aristas = aristas;
     }
 
     @Override
@@ -27,17 +25,13 @@ public class TRES_D extends Figuras_Geometricas {
         this.ncaras = ncaras;
     }
 
-    public double getAristas() {
-        return aristas;
-    }
-
-    public void setAristas(double aristas) {
-        this.aristas = aristas;
-    }
     //metodo
     @Override
     public void mostrar_datos(){
-        System.out.println("el nombre es:" + getNombre());
+        System.out.println("Esta figura es: 3D");
+        System.out.println("Nombre: " + getNombre());
+        System.out.println("N Caras: " + ncaras);
+        System.out.println("Aristas: " + getNlados());
     }
 
 
