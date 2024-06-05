@@ -1,0 +1,84 @@
+Index: src/main/java/CLASES_FIGURAS/Figuras3D/Cilindro.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/CLASES_FIGURAS/Figuras3D/Cilindro.java b/src/main/java/CLASES_FIGURAS/Figuras3D/Cilindro.java
+new file mode 100644
+--- /dev/null	
++++ b/src/main/java/CLASES_FIGURAS/Figuras3D/Cilindro.java	
+@@ -0,0 +1,4 @@
++package CLASES_FIGURAS.Figuras3D;
++
++public class Cilindro {
++}
+Index: src/main/java/CLASES_FIGURAS/Figuras3D/Tetraedro.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/CLASES_FIGURAS/Figuras3D/Tetraedro.java b/src/main/java/CLASES_FIGURAS/Figuras3D/Tetraedro.java
+new file mode 100644
+--- /dev/null	
++++ b/src/main/java/CLASES_FIGURAS/Figuras3D/Tetraedro.java	
+@@ -0,0 +1,4 @@
++package CLASES_FIGURAS.Figuras3D;
++
++public class Tetraedro {
++}
+Index: src/main/java/CLASES_FIGURAS/Figuras3D/Prisma.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/CLASES_FIGURAS/Figuras3D/Prisma.java b/src/main/java/CLASES_FIGURAS/Figuras3D/Prisma.java
+new file mode 100644
+--- /dev/null	
++++ b/src/main/java/CLASES_FIGURAS/Figuras3D/Prisma.java	
+@@ -0,0 +1,4 @@
++package CLASES_FIGURAS.Figuras3D;
++
++public class Prisma {
++}
+Index: src/main/java/CLASES_FIGURAS/Figuras3D/Cubo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/CLASES_FIGURAS/Figuras3D/Cubo.java b/src/main/java/CLASES_FIGURAS/Figuras3D/Cubo.java
+new file mode 100644
+--- /dev/null	
++++ b/src/main/java/CLASES_FIGURAS/Figuras3D/Cubo.java	
+@@ -0,0 +1,4 @@
++package CLASES_FIGURAS.Figuras3D;
++
++public class Cubo {
++}
+Index: src/main/java/CLASES_FIGURAS/Figuras3D/Dodecaedro.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/CLASES_FIGURAS/Figuras3D/Dodecaedro.java b/src/main/java/CLASES_FIGURAS/Figuras3D/Dodecaedro.java
+new file mode 100644
+--- /dev/null	
++++ b/src/main/java/CLASES_FIGURAS/Figuras3D/Dodecaedro.java	
+@@ -0,0 +1,4 @@
++package CLASES_FIGURAS.Figuras3D;
++
++public class Dodecaedro {
++}
+Index: src/main/java/CLASES_FIGURAS/Figuras3D/Octaedro.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/CLASES_FIGURAS/Figuras3D/Octaedro.java b/src/main/java/CLASES_FIGURAS/Figuras3D/Octaedro.java
+new file mode 100644
+--- /dev/null	
++++ b/src/main/java/CLASES_FIGURAS/Figuras3D/Octaedro.java	
+@@ -0,0 +1,4 @@
++package CLASES_FIGURAS.Figuras3D;
++
++public class Octaedro {
++}
