@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb1cfd4e-658d-44a0-bbe6-d37b4c56c873" name="Changes" comment="243">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Cono.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Esfera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_5_2024_12_04__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_5_2024_12_04__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_5_2024_12_18__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_5_2024_12_18__Changes_.xml" afterDir="false" />
+    <list default="true" id="fb1cfd4e-658d-44a0-bbe6-d37b4c56c873" name="Changes" comment="Ajuste 3D y Esfera">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/TRES_D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/TRES_D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Cono.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Cono.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Esfera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Esfera.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,22 +47,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/POO/Documents/Figuras_Geometricas_Grupo2/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/POO/Documents/Figuras_Geometricas_Grupo2/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,7 +81,8 @@
       <updated>1717174315142</updated>
       <workItem from="1717174316196" duration="741000" />
       <workItem from="1717372570787" duration="2609000" />
-      <workItem from="1717466661874" duration="6050000" />
+      <workItem from="1717466661874" duration="6347000" />
+      <workItem from="1717546462929" duration="3842000" />
     </task>
     <task id="LOCAL-00001" summary="carpeta">
       <option name="closed" value="true" />
@@ -135,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717176382976</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Ajuste 3D y Esfera">
+      <option name="closed" value="true" />
+      <created>1717476058189</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717476058189</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +163,7 @@
     <MESSAGE value="ajuste" />
     <MESSAGE value="123" />
     <MESSAGE value="243" />
-    <option name="LAST_COMMIT_MESSAGE" value="243" />
+    <MESSAGE value="Ajuste 3D y Esfera" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajuste 3D y Esfera" />
   </component>
 </project>
