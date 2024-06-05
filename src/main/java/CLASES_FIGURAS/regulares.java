@@ -10,7 +10,7 @@ double altura;
     public regulares(double area, double perimetro, int nlados, String nombre, double altura, double base) {
         super(area, perimetro, nlados, nombre);
         this.altura = altura;
-        this.base = base;
+        this.base = base; //
     }
 
     public double getBase() {
