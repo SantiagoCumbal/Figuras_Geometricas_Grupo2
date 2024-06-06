@@ -29,6 +29,19 @@ public class Segmento_circular extends  Circulo{
      public void setGrados(double grados) {
           this.grados = grados;
      }
-
-
-     }
+     
+     // Método para calcular el área del segmento circular
+    public double calcularAreaSegmento() {
+        double radianes = Math.toRadians(grados);  // Convierte grados a radianes
+        return 0.5 * Math.pow(radio, 2) * (radianes - Math.sin(radianes));
+    }
+     @Override
+     public void mostrar_datos() {
+        System.out.println("Esta figura es: 2D");
+        System.out.println("Nombre: Segmento circular");
+        System.out.println("Radio: " + radio);
+        System.out.println("Grados: " + grados);
+        System.out.println("Área del segmento: " + calcularAreaSegmento());
+    }
+     
+}
