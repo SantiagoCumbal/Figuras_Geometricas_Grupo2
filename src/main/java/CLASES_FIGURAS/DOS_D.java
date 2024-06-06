@@ -31,4 +31,13 @@ public class DOS_D extends Figuras_Geometricas {
     public double calcularPerimetro() {
         return perimetro * nlados;
     }
+
+    @Override
+    public void mostrar_datos() {
+        System.out.println("FIGURA 2D \n");
+        System.out.println("Nombre: " + getNombre());
+        System.out.println("Número de lados: " + getNlados());
+        System.out.println("Area: " + calcularArea());
+        System.out.println("Perimetro: " + calcularPerimetro());
+    }
 }

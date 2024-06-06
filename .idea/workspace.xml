@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb1cfd4e-658d-44a0-bbe6-d37b4c56c873" name="Changes" comment="243">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Cilindro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Cubo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Dodecaedro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Octaedro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Prisma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Tetraedro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_06_2024_22_05__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_06_2024_22_05__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_06_2024_22_05__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_06_2024_22_05__Changes_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_5_2024_12_04__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_5_2024_12_04__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_5_2024_12_18__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_5_2024_12_18__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/DOS_D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/DOS_D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

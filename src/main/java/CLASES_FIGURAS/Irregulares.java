@@ -1,5 +1,7 @@
 package CLASES_FIGURAS;
 
+import java.sql.SQLOutput;
+
 public class Irregulares extends DOS_D{
     String tipo_angulos;
 
@@ -26,5 +28,15 @@ public class Irregulares extends DOS_D{
     public double calcularPerimetro() {
         System.out.println("Perimetro del "+getNombre());
         return super.calcularPerimetro();
+    }
+
+    @Override
+    public void mostrar_datos() {
+        System.out.println("Figura Irregular \n");
+        System.out.println("Nombre: "+getNombre());
+        System.out.println("Número de lados: "+getNlados());
+        System.out.println("Tipo de ángulos: "+getTipo_angulos());
+        System.out.println("Area: "+calcularArea());
+        System.out.println("Perimetro: "+calcularPerimetro());
     }
 }
