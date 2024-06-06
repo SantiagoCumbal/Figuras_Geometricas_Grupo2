@@ -53,6 +53,5 @@ public class Circulo extends regulares {
         System.out.println("Diametro:" + diametro(radio));
         System.out.println("Circunferencia con valor PI:" + circunferenciaPi(radio));
         System.out.println("Circunferencia con valor de diametro:" + circunferenciaDiametro(diametro));
-
     }
 }

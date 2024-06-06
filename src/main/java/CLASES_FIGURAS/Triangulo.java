@@ -74,7 +74,9 @@ public class Triangulo extends regulares{
 
     @Override
     public void mostrar_datos() {
+        System.out.println("Esta figura es: 2D");
         System.out.println("Nombre:  Triangulo");
+        System.out.println("Lados: 3");
         System.out.println("Base:" + base);
         System.out.println("Altura" + altura);
         System.out.println("Area: " + area(base, altura));

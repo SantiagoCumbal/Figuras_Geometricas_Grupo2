@@ -6,8 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="fb1cfd4e-658d-44a0-bbe6-d37b4c56c873" name="Changes" comment="243">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Circulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Cuadrilateros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Cuadrilateros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/regulares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/regulares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Cubo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Cubo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Dodecaedro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Dodecaedro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Octaedro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Figuras3D/Octaedro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Triangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +36,12 @@
     &quot;assignee&quot;: &quot;SantiagoCumbal&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SantiagoCumbal/Figuras_Geometricas_Grupo2.git",
-    "accountId": "159c1697-ce3b-4a7d-ba3b-b16238a24830"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SantiagoCumbal/Figuras_Geometricas_Grupo2.git&quot;,
+    &quot;accountId&quot;: &quot;159c1697-ce3b-4a7d-ba3b-b16238a24830&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
