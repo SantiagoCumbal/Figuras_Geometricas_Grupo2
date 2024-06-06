@@ -37,6 +37,6 @@ public class Irregulares extends DOS_D{
         System.out.println("Número de lados: "+getNlados());
         System.out.println("Tipo de ángulos: "+getTipo_angulos());
         System.out.println("Area: "+calcularArea());
-        System.out.println("Perimetro: "+calcularPerimetro());
+        System.out.println("Perimetro: "+calcularPerimetro()):
     }
 }
