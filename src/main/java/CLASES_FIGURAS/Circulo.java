@@ -32,31 +32,27 @@ public class Circulo extends regulares {
     public double area(double radio) {
         return Math.PI * Math.pow(radio, 2);
     }
-    public void imprimirAreaCirculo(){
-        System.out.println(area(radio));
-    }
-
     // Calcular el diametro del circulos
     public double diametro(double radio){
         return (2*radio);
     }
-    public void imprimirDiametroCirculo(){
-        System.out.println(diametro(radio));
-    }
-
     // Calcular circunferencia del circulo con PI
     public double circunferenciaPi(double radio){
         return (2*Math.PI * radio);
     }
-    public void imprimirCircunferenciaPi(){
-        System.out.println(circunferenciaPi(radio));
-    }
-
     // Calcular circunferencia del circulo con diametro
     public double circunferenciaDiametro(double diametro){
         return (Math.PI * diametro);
     }
-    public void imprimirCircunferenciaDiametro(){
-        System.out.println(circunferenciaDiametro(diametro));
+    @Override
+    public void mostrar_datos() {
+        System.out.println("Nombre: Circulo");
+        System.out.println("Radio: " + radio);
+        System.out.println("Diametro: " + diametro);
+        System.out.println("Área del circulo: " + area(radio));
+        System.out.println("Diametro:" + diametro(radio));
+        System.out.println("Circunferencia con valor PI:" + circunferenciaPi(radio));
+        System.out.println("Circunferencia con valor de diametro:" + circunferenciaDiametro(diametro));
+
     }
 }

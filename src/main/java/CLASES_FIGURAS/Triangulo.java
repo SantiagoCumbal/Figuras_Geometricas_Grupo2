@@ -67,15 +67,17 @@ public class Triangulo extends regulares{
         return (base*altura)/2;
     }
 
-    public void imprimirAreaTriangulo(){
-        System.out.println(area(base, altura));
-    }
-
     // Se calcula el perimetro del triangulo
     public double perimetro( double lado1, double lado2, double lado3){
         return (lado1+lado2+lado3);
     }
-    public void imprimirPerimetroTriangulo(){
-        System.out.println(perimetro(lado1,lado2,lado3));
+
+    @Override
+    public void mostrar_datos() {
+        System.out.println("Nombre:  Triangulo");
+        System.out.println("Base:" + base);
+        System.out.println("Altura" + altura);
+        System.out.println("Area: " + area(base, altura));
+        System.out.println("Perimetro: " + perimetro(lado1,lado2,lado3));
     }
 }
