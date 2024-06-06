@@ -3,6 +3,9 @@ package CLASES_FIGURAS;
 public class Triangulo extends regulares{
     double base;
     double altura;
+    double lado1;
+    double lado2;
+    double lado3;
 
     public Triangulo() {
     }
@@ -10,6 +13,12 @@ public class Triangulo extends regulares{
     public Triangulo(double base, double altura) {
         this.base = base;
         this.altura = altura;
+    }
+
+    public Triangulo(double lado1, double lado2, double lado3) {
+        this.lado1 = lado1;
+        this.lado2 = lado2;
+        this.lado3 = lado3;
     }
 
     public double getBase() {
@@ -28,11 +37,45 @@ public class Triangulo extends regulares{
         this.altura = altura;
     }
 
+    public double getLado1() {
+        return lado1;
+    }
+
+    public void setLado1(double lado1) {
+        this.lado1 = lado1;
+    }
+
+    public double getLado2() {
+        return lado2;
+    }
+
+    public void setLado2(double lado2) {
+        this.lado2 = lado2;
+    }
+
+    public double getLado3() {
+        return lado3;
+    }
+
+    public void setLado3(double lado3) {
+        this.lado3 = lado3;
+    }
+
+    // se calculara el area del triangulo
+
     public double area(double base, double altura) {
         return (base*altura)/2;
     }
 
-    public void imprimir_datos(){
-        System.out.println(area);
+    public void imprimirAreaTriangulo(){
+        System.out.println(area(base, altura));
+    }
+
+    // Se calcula el perimetro del triangulo
+    public double perimetro( double lado1, double lado2, double lado3){
+        return (lado1+lado2+lado3);
+    }
+    public void imprimirPerimetroTriangulo(){
+        System.out.println(perimetro(lado1,lado2,lado3));
     }
 }

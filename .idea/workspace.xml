@@ -10,8 +10,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_5_2024_12_04__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_5_2024_12_04__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_5_2024_12_18__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_5_2024_12_18__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/DOS_D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/DOS_D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CLASES_FIGURAS/Triangulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +35,12 @@
     &quot;assignee&quot;: &quot;SantiagoCumbal&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/SantiagoCumbal/Figuras_Geometricas_Grupo2.git&quot;,
-    &quot;accountId&quot;: &quot;0e45a00c-b343-4520-8306-7e82a3b242ea&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SantiagoCumbal/Figuras_Geometricas_Grupo2.git",
+    "accountId": "d1ef8040-4414-44ef-9653-534f5b31e148"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -85,6 +85,7 @@
       <workItem from="1717174316196" duration="741000" />
       <workItem from="1717372570787" duration="2609000" />
       <workItem from="1717466661874" duration="6050000" />
+      <workItem from="1717634466814" duration="1994000" />
     </task>
     <task id="LOCAL-00001" summary="carpeta">
       <option name="closed" value="true" />
