@@ -28,4 +28,14 @@ public class Cuadrilateros extends regulares{
     public void setMedidaLados(double medidaLados) {
         this.medidaLados = medidaLados;
     }
+
+    @Override
+    public void mostrar_datos() {
+        System.out.println("Nombre:  Cuadrilateros");
+        System.out.println("Base:" + base);
+        System.out.println("Altura" + altura);
+        System.out.println("Número de lados: "+getNlados());
+        System.out.println("Area: "+calcularArea());
+        System.out.println("Perimetro: "+calcularPerimetro());
+    }
 }

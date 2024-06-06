@@ -40,4 +40,14 @@ double altura;
         System.out.println("Perimetro del "+getNombre());
         return super.calcularPerimetro();
     }
+
+    @Override
+    public void mostrar_datos() {
+        System.out.println("Figura Regular \n");
+        System.out.println("Nombre: "+getNombre());
+        System.out.println("Número de lados: "+getNlados());
+        System.out.println("Area: "+calcularArea());
+        System.out.println("Perimetro: "+calcularPerimetro());
+    }
 }
+
